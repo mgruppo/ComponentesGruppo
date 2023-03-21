@@ -1,0 +1,5 @@
+main {
+    height: calc(100vh - var(--toolbar-alto));
+    padding: 20px;
+    margin-left: var(--navbar-ancho);
+}

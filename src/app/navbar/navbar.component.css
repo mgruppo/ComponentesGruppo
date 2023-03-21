@@ -1,0 +1,6 @@
+aside {
+   background-color:blue;
+   width: var(--navbar-ancho);
+   height: calc(100vh - var(--toolbar-alto));
+   position: fixed;
+}
