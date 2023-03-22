@@ -6,5 +6,10 @@
 
 :root {
     --toolbar-alto: 64px;
-    --navbar-ancho: 230px
+    --navbar-ancho: 190px
+}
+
+body {
+    background: linear-gradient(to right, #7269bd, #536cb4, #3c6da6, #316b94, #346782);
+    color: white;
 }

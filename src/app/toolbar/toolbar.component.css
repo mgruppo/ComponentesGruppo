@@ -1,4 +1,10 @@
 header {
-    background-color: aquamarine;
+    background: linear-gradient(to top, #7269bd, #665bae, #5a4e9f, #4f4190, #433482);
     height: var(--toolbar-alto);
+    text-align: center;
+    color: whitesmoke;
+}
+
+h1 {
+    font-size: 2.5rem;
 }

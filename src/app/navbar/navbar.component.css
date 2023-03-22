@@ -1,6 +1,13 @@
 aside {
-   background-color:blue;
+   background: linear-gradient(to top, #7269bd, #665bae, #5a4e9f, #4f4190, #433482);
    width: var(--navbar-ancho);
    height: calc(100vh - var(--toolbar-alto));
    position: fixed;
+   font-size: 1.2rem;
+}
+
+.nav-link {
+   margin-top: 2rem;
+   color: azure;
+   font-weight: bold;
 }
